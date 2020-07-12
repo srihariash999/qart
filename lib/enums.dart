@@ -1,0 +1,1 @@
+enum bst {initial, loading, loaded, error, noresults}
